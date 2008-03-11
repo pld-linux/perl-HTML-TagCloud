@@ -6,7 +6,7 @@
 %define		pdir	HTML
 %define		pnam	TagCloud
 Summary:	HTML::TagCloud - generate an HTML tag cloud
-Summary(pl):	HTML::TagCloud - genrowanie HTML-owej chmury tagów
+Summary(pl.UTF-8):	HTML::TagCloud - generowanie HTML-owej chmury tagÃ³w
 Name:		perl-HTML-TagCloud
 Version:	0.34
 Release:	1
