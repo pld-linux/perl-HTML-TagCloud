@@ -7,13 +7,13 @@
 Summary:	HTML::TagCloud - generate an HTML tag cloud
 Summary(pl.UTF-8):	HTML::TagCloud - generowanie HTML-owej chmury tagów
 Name:		perl-HTML-TagCloud
-Version:	0.37
-Release:	2
+Version:	0.38
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/R/RO/ROBERTSD/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	db375dd22cb8c8bb5a4f08b4e2adc2e9
+Source0:	https://www.cpan.org/authors/id/R/RO/ROBERTSD/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	8e0181493f9fcfb94fc7a1d939cc702f
 URL:		http://search.cpan.org/dist/HTML-TagCloud/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
